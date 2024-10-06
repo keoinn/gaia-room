@@ -1,0 +1,1 @@
+import{S as o,e as t,f as e,u as r}from"./index-Zs_uUSd6.js";import{_ as a}from"./plugin-vueexport-helper-DlAUqK2U.js";const c="/gaia-room/assets/tour-BIsdQ95o.webp",_={class:"demo"},u={__name:"tour",setup(n){return o(s=>({"188c0f0e":`url('${r(c)}')`})),(s,p)=>(t(),e("div",_))}},d=a(u,[["__scopeId","data-v-d916bf40"]]);export{d as default};

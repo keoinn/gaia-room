@@ -1,0 +1,1 @@
+import{S as a,e,f as o,u as t}from"./index-Zs_uUSd6.js";import{_ as r}from"./plugin-vueexport-helper-DlAUqK2U.js";const _="/gaia-room/assets/lab-Cf1VN-MK.jpg",c={class:"demo"},n={__name:"lab",setup(f){return a(s=>({a035f648:`url('${t(_)}')`})),(s,l)=>(e(),o("div",c))}},u=r(n,[["__scopeId","data-v-f19e6699"]]);export{u as default};

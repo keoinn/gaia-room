@@ -1,0 +1,1 @@
+import{S as s,e as a,f as c,u as o}from"./index-Zs_uUSd6.js";import{_ as t}from"./plugin-vueexport-helper-DlAUqK2U.js";const _="/gaia-room/assets/challenge_demo-Dao2dctj.webp",r={class:"demo"},n={__name:"challenge",setup(l){return s(e=>({b32540c4:`url('${o(_)}')`})),(e,m)=>(a(),c("div",r))}},u=t(n,[["__scopeId","data-v-018b6ea2"]]);export{u as default};
